@@ -3,7 +3,7 @@
 
 <!-- <img alt="Yiyang Sun" src="./assets/avatar.png" width=100 /> -->
 
-# Hi, this is ChrisWang :wave:
+# Hi, this is ChrisWang 
 
 <p>
 
@@ -24,6 +24,7 @@
 
 I love coding. :heart:
 
+A javascript full-stack developer.
 <!-- I love Front End technologys. :heart: -->
 
 <p>
@@ -31,21 +32,25 @@ I love coding. :heart:
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 
 </p>
 
 <p>
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
+  
 ![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
 ![React](https://img.shields.io/badge/-React-282c34?logo=react)
+![Next](https://img.shields.io/badge/-Next-000000?logo=next.js)
+![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
+<!-- ![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack) -->
 
 </p>
 
 <p>
 
-![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
+![Node](https://img.shields.io/badge/Node-5FA04E?logo=node.js)
+![Express](https://img.shields.io/badge/Express-brightgreen?logo=express)
+![Nest](https://img.shields.io/badge/Nest-1?logo=nestjs&color=%23E0234E)
 
 </p>
 
