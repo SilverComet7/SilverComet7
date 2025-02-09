@@ -22,8 +22,6 @@
 
 ## Orientation :dart:
 
-I love coding. :heart:
-
 A javascript full-stack developer.
 <!-- I love Front End technologys. :heart: -->
 
@@ -60,9 +58,6 @@ A javascript full-stack developer.
 
 
 </div>
-
-
-
 
 
 
